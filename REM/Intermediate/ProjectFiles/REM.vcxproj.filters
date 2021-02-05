@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\REM.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{B0EA0224-BD03-4249-8755-5152065428D9}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\REM.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\REMEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{8293FE05-8545-4A2C-8314-BDDDA64B8326}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\REM">
+      <UniqueIdentifier>{FE8BAD52-35CC-40B6-9FAA-7AD185DD1171}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\REM\REM.Build.cs">
+      <Filter>Source\REM</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\REM\REM.cpp">
+      <Filter>Source\REM</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\REM\REM.h">
+      <Filter>Source\REM</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\REM\REMGameModeBase.cpp">
+      <Filter>Source\REM</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\REM\REMGameModeBase.h">
+      <Filter>Source\REM</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
