@@ -804,3 +804,151 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.03.12-21.50.56:460][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000019 seconds (updated 0 objects)
 [2021.03.12-21.50.57:118][  4]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
 [2021.03.12-21.50.57:472][  4]LogSlate: Took 0.037882 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.03.12-21.51.20:504][ 84]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.03.12-21.51.43:211][336]LogUObjectHash: Compacting FUObjectHashTables data took   2.11ms
+[2021.03.12-21.51.43:338][336]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.03.12-21.51.43:630][336]LogAssetEditorSubsystem: Opening Asset editor for World /Game/ThirdPersonBP/Maps/MainMenu.MainMenu
+[2021.03.12-21.51.43:631][336]Cmd: MAP LOAD FILE="C:/Users/donov/Documents/GitHub/Project-Rem/WhiteBox 4.26/Content/ThirdPersonBP/Maps/MainMenu.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.03.12-21.51.43:631][336]LightingResults: New page: Lighting Build
+[2021.03.12-21.51.43:631][336]LoadErrors: New page: Loading map: MainMenu.umap
+[2021.03.12-21.51.43:640][336]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.03.12-21.51.43:641][336]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.12-21.51.43:642][336]MapCheck: New page: Map Check
+[2021.03.12-21.51.43:642][336]LightingResults: New page: Lighting Build
+[2021.03.12-21.51.43:668][336]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.03.12-21.51.43:740][336]LogUObjectHash: Compacting FUObjectHashTables data took   2.78ms
+[2021.03.12-21.51.43:742][336]LogAudio: Display: Audio Device (ID: 1) registered with world 'MainMenu'.
+[2021.03.12-21.51.43:868][336]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.03.12-21.51.43:868][336]LogAIModule: Creating AISystem for world MainMenu
+[2021.03.12-21.51.43:878][336]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2021.03.12-21.51.43:898][336]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.03.12-21.51.43:899][336]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.19ms to complete.
+[2021.03.12-21.51.43:899][336]LogFileHelpers: Loading map 'MainMenu' took 0.268
+[2021.03.12-21.52.04:178][426]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2021.03.12-21.52.20:609][496]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.03.12-21.52.22:254][507]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2021.03.12-21.52.22:340][507]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.03.12-21.52.22:361][507]PIE: New page: PIE session: MainMenu (Mar 12, 2021, 5:52:22 AM)
+[2021.03.12-21.52.22:395][507]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2021.03.12-21.52.22:403][507]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2021.03.12-21.52.22:403][507]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_MainMenu
+[2021.03.12-21.52.22:406][507]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002698s)
+[2021.03.12-21.52.22:413][507]LogAIModule: Creating AISystem for world MainMenu
+[2021.03.12-21.52.22:413][507]LogPlayLevel: PIE: World Init took: (0.003324s)
+[2021.03.12-21.52.22:413][507]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/MainMenu.MainMenu to /Game/ThirdPersonBP/Maps/UEDPIE_0_MainMenu.MainMenu (0.010659s)
+[2021.03.12-21.52.22:427][507]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2021.03.12-21.52.22:429][507]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2021.03.12-21.52.22:429][507]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.03.12-21.52.22:429][507]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.03.12-21.52.22:429][507]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.03.12-21.52.22:429][507]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.03.12-21.52.22:429][507]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.03.12-21.52.22:429][507]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.03.12-21.52.22:429][507]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.03.12-21.52.22:429][507]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.03.12-21.52.22:430][507]LogAudio: Display: Using built-in audio occlusion.
+[2021.03.12-21.52.22:430][507]LogAudioMixer: Display: Initializing audio mixer.
+[2021.03.12-21.52.22:446][507]LogAudioMixer: Display: 0: FrontLeft
+[2021.03.12-21.52.22:446][507]LogAudioMixer: Display: 1: FrontRight
+[2021.03.12-21.52.22:489][507]LogAudioMixer: Display: Using Audio Device Headphones (Donovan’s AirPods Stereo)
+[2021.03.12-21.52.22:489][507]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.03.12-21.52.22:489][507]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.03.12-21.52.22:489][507]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.03.12-21.52.22:490][507]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.03.12-21.52.22:490][507]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.03.12-21.52.22:491][507]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.03.12-21.52.22:530][507]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.03.12-21.52.22:530][507]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.03.12-21.52.22:530][507]LogInit: FAudioDevice initialized.
+[2021.03.12-21.52.22:530][507]LogAudio: Display: Audio Device (ID: 2) registered with world 'MainMenu'.
+[2021.03.12-21.52.22:577][507]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.03.12-21.52.22:584][507]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.12-21.52.22:616][507]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.03.12-21.52.22:652][507]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 60) at 2021.03.12-13.52.22
+[2021.03.12-21.52.22:653][507]LogWorld: Bringing up level for play took: 0.002749
+[2021.03.12-21.52.22:654][507]LogOnline: OSS: Creating online subsystem instance for: :Context_1
+[2021.03.12-21.52.22:791][507]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'MovieSceneCapture' in 0.0018 seconds. Added 20 classes and 0 folders.
+[2021.03.12-21.52.22:902][507]PIE: Server logged in
+[2021.03.12-21.52.22:903][507]PIE: Play in editor total start time 0.58 seconds.
+[2021.03.12-21.52.23:355][508]LogRenderer: Reallocating scene render targets to support 964x484 Format 10 NumSamples 1 (Frame:1).
+[2021.03.12-21.52.32:479][576]LogSlate: Window 'WhiteBox Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.03.12-21.52.32:600][576]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_MainMenu
+[2021.03.12-21.52.32:643][576]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2021.03.12-21.52.32:644][576]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.12-21.52.32:664][576]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.03.12-21.52.32:669][576]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.12-21.52.32:688][576]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.03.12-21.52.32:691][576]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.03.12-21.52.32:787][576]LogUObjectHash: Compacting FUObjectHashTables data took   3.19ms
+[2021.03.12-21.52.32:843][577]LogPlayLevel: Display: Destroying online subsystem :Context_1
+[2021.03.12-21.52.34:816][600]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.03.12-21.52.36:375][612]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.03.12-21.52.37:045][617]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.03.12-21.52.38:166][625]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.03.12-21.52.40:325][638]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.03.12-21.52.40:325][638]PIE: New page: PIE session: MainMenu (Mar 12, 2021, 5:52:40 AM)
+[2021.03.12-21.52.40:325][638]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_MainMenu
+[2021.03.12-21.52.40:327][638]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002109s)
+[2021.03.12-21.52.40:329][638]LogAIModule: Creating AISystem for world MainMenu
+[2021.03.12-21.52.40:330][638]LogPlayLevel: PIE: World Init took: (0.002115s)
+[2021.03.12-21.52.40:331][638]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/MainMenu.MainMenu to /Game/ThirdPersonBP/Maps/UEDPIE_0_MainMenu.MainMenu (0.004489s)
+[2021.03.12-21.52.40:343][638]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2021.03.12-21.52.40:344][638]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2021.03.12-21.52.40:344][638]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.03.12-21.52.40:344][638]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.03.12-21.52.40:344][638]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.03.12-21.52.40:344][638]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.03.12-21.52.40:344][638]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.03.12-21.52.40:344][638]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.03.12-21.52.40:344][638]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.03.12-21.52.40:344][638]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.03.12-21.52.40:345][638]LogAudio: Display: Using built-in audio occlusion.
+[2021.03.12-21.52.40:345][638]LogAudioMixer: Display: Initializing audio mixer.
+[2021.03.12-21.52.40:357][638]LogAudioMixer: Display: 0: FrontLeft
+[2021.03.12-21.52.40:358][638]LogAudioMixer: Display: 1: FrontRight
+[2021.03.12-21.52.40:380][638]LogAudioMixer: Display: Using Audio Device Headphones (Donovan’s AirPods Stereo)
+[2021.03.12-21.52.40:381][638]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.03.12-21.52.40:381][638]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.03.12-21.52.40:381][638]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.03.12-21.52.40:382][638]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.03.12-21.52.40:382][638]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.03.12-21.52.40:382][638]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.03.12-21.52.40:419][638]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.03.12-21.52.40:419][638]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.03.12-21.52.40:419][638]LogInit: FAudioDevice initialized.
+[2021.03.12-21.52.40:419][638]LogAudio: Display: Audio Device (ID: 3) registered with world 'MainMenu'.
+[2021.03.12-21.52.40:474][638]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.03.12-21.52.40:481][638]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.12-21.52.40:482][638]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.03.12-21.52.40:484][638]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 60) at 2021.03.12-13.52.40
+[2021.03.12-21.52.40:484][638]LogWorld: Bringing up level for play took: 0.000712
+[2021.03.12-21.52.40:485][638]LogOnline: OSS: Creating online subsystem instance for: :Context_2
+[2021.03.12-21.52.40:502][638]PIE: Server logged in
+[2021.03.12-21.52.40:504][638]PIE: Play in editor total start time 0.181 seconds.
+[2021.03.12-21.52.40:799][639]LogRenderer: Reallocating scene render targets to support 964x508 Format 10 NumSamples 1 (Frame:1).
+[2021.03.12-21.52.43:394][662]LogNet: Browse: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap
+[2021.03.12-21.52.43:494][662]LogLoad: LoadMap: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap
+[2021.03.12-21.52.43:494][662]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_MainMenu
+[2021.03.12-21.52.43:496][662]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2021.03.12-21.52.43:496][662]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.12-21.52.43:545][662]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.03.12-21.52.43:548][662]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2021.03.12-21.52.43:899][662]LogAudio: Display: Audio Device (ID: 3) registered with world 'ThirdPersonExampleMap'.
+[2021.03.12-21.52.43:900][662]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2021.03.12-21.52.43:900][662]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.03.12-21.52.43:920][662]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2021.03.12-13.52.43
+[2021.03.12-21.52.43:921][662]LogWorld: Bringing up level for play took: 0.020337
+[2021.03.12-21.52.43:943][662]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2021.03.12-21.52.43:943][662]LogLoad: Took 0.449460 seconds to LoadMap(/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap)
+[2021.03.12-21.52.54:039][752]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.12-21.52.54:040][752]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.03.12-21.52.54:041][752]LogSlate: Window 'WhiteBox Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.03.12-21.52.54:131][752]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.03.12-21.52.54:138][752]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.12-21.52.54:161][752]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.03.12-21.52.54:168][752]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.12-21.52.54:180][752]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.03.12-21.52.54:181][752]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.03.12-21.52.54:183][752]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.03.12-21.52.54:242][752]LogUObjectHash: Compacting FUObjectHashTables data took   2.20ms
+[2021.03.12-21.52.54:337][753]LogPlayLevel: Display: Destroying online subsystem :Context_2
