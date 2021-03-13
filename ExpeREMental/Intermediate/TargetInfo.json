@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "REM",
+			"Path": "C:\\Users\\donov\\Documents\\GitHub\\Project-Rem\\REM\\Source\\REM.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "REMEditor",
+			"Path": "C:\\Users\\donov\\Documents\\GitHub\\Project-Rem\\REM\\Source\\REMEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

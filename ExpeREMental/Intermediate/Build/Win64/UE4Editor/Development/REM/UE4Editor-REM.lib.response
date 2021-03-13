@@ -1,0 +1,16 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-REM.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\Corte\OneDrive\Desktop\REM-Bug\Intermediate\Build\Win64\REMEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"C:\Users\Corte\OneDrive\Desktop\REM-Bug\Intermediate\Build\Win64\UE4Editor\Development\REM\REM.cpp.obj"
+"C:\Users\Corte\OneDrive\Desktop\REM-Bug\Intermediate\Build\Win64\UE4Editor\Development\REM\REMGameModeBase.cpp.obj"
+"C:\Users\Corte\OneDrive\Desktop\REM-Bug\Intermediate\Build\Win64\UE4Editor\Development\REM\REM.init.gen.cpp.obj"
+"C:\Users\Corte\OneDrive\Desktop\REM-Bug\Intermediate\Build\Win64\UE4Editor\Development\REM\REMGameModeBase.gen.cpp.obj"
+"C:\Users\Corte\OneDrive\Desktop\REM-Bug\Intermediate\Build\Win64\UE4Editor\Development\REM\Default.rc2.res"
+/OUT:"C:\Users\Corte\OneDrive\Desktop\REM-Bug\Intermediate\Build\Win64\UE4Editor\Development\REM\UE4Editor-REM.lib"
+/INCLUDE:IMPLEMENT_MODULE_REM
