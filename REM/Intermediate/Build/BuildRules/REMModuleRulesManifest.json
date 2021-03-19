@@ -1,8 +1,8 @@
 {
 	"SourceFiles": [
-		"E:\\UE4\\Project-Rem\\REM\\Source\\REM\\REM.Build.cs",
-		"E:\\UE4\\Project-Rem\\REM\\Source\\REM.Target.cs",
-		"E:\\UE4\\Project-Rem\\REM\\Source\\REMEditor.Target.cs"
+		"C:\\Users\\Willie\\Desktop\\Github\\REM\\Project-Rem\\REM\\Source\\REM\\REM.Build.cs",
+		"C:\\Users\\Willie\\Desktop\\Github\\REM\\Project-Rem\\REM\\Source\\REM.Target.cs",
+		"C:\\Users\\Willie\\Desktop\\Github\\REM\\Project-Rem\\REM\\Source\\REMEditor.Target.cs"
 	],
 	"EngineVersion": "4.26.1"
 }
