@@ -31,8 +31,8 @@
 /wd4244
 /wd4838
 /I .
-/I E:\UE4\Project-Rem\REM\Intermediate\Build\Win64\UE4Editor\Inc\REM
-/I E:\UE4\Project-Rem\REM\Source
+/I C:\Users\Willie\Desktop\Github\REM\Project-Rem\REM\Intermediate\Build\Win64\UE4Editor\Inc\REM
+/I C:\Users\Willie\Desktop\Github\REM\Project-Rem\REM\Source
 /I Runtime
 /I Runtime\TraceLog\Public
 /I Runtime\Core\Public
@@ -255,18 +255,18 @@
 /I ThirdParty\PhysX3\APEX_1.4\shared\general\RenderDebug\public
 /I ThirdParty\PhysX3\APEX_1.4\shared\general\PairFilter\include
 /I ThirdParty\PhysX3\APEX_1.4\shared\internal\include
-/I "C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\INCLUDE"
-/I "C:\Program Files (x86)\Windows Kits\NETFXSDK\4.6.2\include\um"
-/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt"
-/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared"
-/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um"
-/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\winrt"
-/FI"E:\UE4\Project-Rem\REM\Intermediate\Build\Win64\REMEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
-/Yu"E:\UE4\Project-Rem\REM\Intermediate\Build\Win64\REMEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
-/Fp"E:\UE4\Project-Rem\REM\Intermediate\Build\Win64\REMEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.pch"
-"E:\UE4\Project-Rem\REM\Intermediate\Build\Win64\UE4Editor\Inc\REM\REMGameModeBase.gen.cpp"
-/FI"E:\UE4\Project-Rem\REM\Intermediate\Build\Win64\UE4Editor\Development\REM\Definitions.REM.h"
-/Fo"E:\UE4\Project-Rem\REM\Intermediate\Build\Win64\UE4Editor\Development\REM\REMGameModeBase.gen.cpp.obj"
+/I "C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29910\INCLUDE"
+/I "C:\Program Files (x86)\Windows Kits\NETFXSDK\4.8\include\um"
+/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt"
+/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared"
+/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um"
+/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\winrt"
+/FI"C:\Users\Willie\Desktop\Github\REM\Project-Rem\REM\Intermediate\Build\Win64\REMEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
+/Yu"C:\Users\Willie\Desktop\Github\REM\Project-Rem\REM\Intermediate\Build\Win64\REMEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
+/Fp"C:\Users\Willie\Desktop\Github\REM\Project-Rem\REM\Intermediate\Build\Win64\REMEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.pch"
+"C:\Users\Willie\Desktop\Github\REM\Project-Rem\REM\Intermediate\Build\Win64\UE4Editor\Inc\REM\REMGameModeBase.gen.cpp"
+/FI"C:\Users\Willie\Desktop\Github\REM\Project-Rem\REM\Intermediate\Build\Win64\UE4Editor\Development\REM\Definitions.REM.h"
+/Fo"C:\Users\Willie\Desktop\Github\REM\Project-Rem\REM\Intermediate\Build\Win64\UE4Editor\Development\REM\REMGameModeBase.gen.cpp.obj"
 /TP
 /GR-
 /W4
