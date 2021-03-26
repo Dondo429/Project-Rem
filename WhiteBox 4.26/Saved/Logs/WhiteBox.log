@@ -5951,3 +5951,178 @@ Make sure 'ThirdPersonExampleMap_C' has been compiled for  Set HealthHudRef
 [2021.03.26-23.05.44:754][366]LogLinker: Warning: Failed to load '/Game/Geometry/Meshes/1M_Cube': Can't find file.
 [2021.03.26-23.05.44:754][366]LogLinker: Warning: Failed to load '/Game/Geometry/Meshes/1M_Cube': Can't find file.
 [2021.03.26-23.05.44:754][366]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/Geometry/Meshes/1M_Cube.1M_Cube'
+[2021.03.26-23.08.51:577][984]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.03.26-23.08.52:416][984]LogSlate: Window 'Message' being destroyed
+[2021.03.26-23.08.52:451][984]Message dialog closed, result: Yes, title: Message, text: Would you like to apply the changes of the modified material to the original material?
+/Game/Assets/HeartMat.HeartMat
+(Selecting 'No' will cause all changes to be lost!)
+[2021.03.26-23.08.57:481][984]LogMaterial: Display: Missing cached shader map for material HeartMat, compiling. 
+[2021.03.26-23.08.57:512][984]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.03.26-23.08.57:530][984]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 15
+[2021.03.26-23.08.57:530][984]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 14
+[2021.03.26-23.08.57:530][984]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 13
+[2021.03.26-23.08.57:530][984]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 12
+[2021.03.26-23.08.57:565][984]LogMaterial: Display: Missing cached shader map for material HeartMat, compiling. 
+[2021.03.26-23.08.57:650][984]LogUObjectHash: Compacting FUObjectHashTables data took   6.57ms
+[2021.03.26-23.08.57:655][984]TextureStreamingBuild: Display: Compiling optional shaders took 0.000 seconds.
+[2021.03.26-23.08.57:705][984]LogUObjectHash: Compacting FUObjectHashTables data took   3.71ms
+[2021.03.26-23.08.57:768][984]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2021.03.26-23.08.57:826][984]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.03.26-23.08.58:155][984]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 26
+[2021.03.26-23.08.58:392][984]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 25
+[2021.03.26-23.08.58:717][984]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 24
+[2021.03.26-23.08.58:789][984]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 23
+[2021.03.26-23.08.58:809][984]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 22
+[2021.03.26-23.08.59:070][984]LogSlate: Window 'Save Content' being destroyed
+[2021.03.26-23.08.59:088][984]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 21
+[2021.03.26-23.08.59:109][984]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.03.26-23.08.59:729][984]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 20
+[2021.03.26-23.08.59:729][984]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 19
+[2021.03.26-23.08.59:729][984]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 18
+[2021.03.26-23.08.59:729][984]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 17
+[2021.03.26-23.09.00:284][984]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 16
+[2021.03.26-23.09.00:284][984]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 15
+[2021.03.26-23.09.00:284][984]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 11
+[2021.03.26-23.09.00:284][984]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 8
+[2021.03.26-23.09.00:836][984]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 5
+[2021.03.26-23.09.01:393][984]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 3
+[2021.03.26-23.09.01:393][984]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2021.03.26-23.09.01:393][984]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1
+[2021.03.26-23.09.02:365][984]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/HeartMat" FILE="C:/Users/donov/Documents/GitHub/Project-Rem/WhiteBox 4.26/Content/Assets/HeartMat.uasset" SILENT=true
+[2021.03.26-23.09.02:386][984]LogSavePackage: Moving 'C:/Users/donov/Documents/GitHub/Project-Rem/WhiteBox 4.26/Saved/HeartMat7B1BFC044A40B77249339D8112D69675.tmp' to 'C:/Users/donov/Documents/GitHub/Project-Rem/WhiteBox 4.26/Content/Assets/HeartMat.uasset'
+[2021.03.26-23.09.02:848][984]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2021.03.26-23.09.02:848][984]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.26-23.09.02:871][984]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2021.03.26-23.09.02:871][984]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.26-23.09.03:065][984]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2021.03.26-23.09.03:065][984]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.26-23.09.03:086][984]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2021.03.26-23.09.03:086][984]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.26-23.09.03:319][984]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2021.03.26-23.09.03:319][984]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.26-23.09.03:384][984]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2021.03.26-23.09.03:384][984]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.26-23.09.03:409][984]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2021.03.26-23.09.03:410][984]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.26-23.09.03:534][984]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2021.03.26-23.09.03:534][984]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.26-23.09.03:715][984]LogSlate: Window 'Ambience' being destroyed
+[2021.03.26-23.09.03:827][984]LogSlate: Window 'WhiteBox - Unreal Editor' being destroyed
+[2021.03.26-23.09.03:828][984]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.03.26-23.09.04:178][984]AssetCheck: New page: Asset Save: HeartMat
+[2021.03.26-23.09.04:178][984]LogContentValidation: Display: Validating Material /Game/Assets/HeartMat.HeartMat
+[2021.03.26-23.09.04:179][985]Cmd: QUIT_EDITOR
+[2021.03.26-23.09.04:179][985]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2021.03.26-23.09.04:238][985]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2021.03.26-23.09.04:502][985]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2021.03.26-23.09.04:502][985]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2021.03.26-23.09.04:502][985]LogAudio: Display: Audio Device unregistered from world 'MainMenu'.
+[2021.03.26-23.09.04:502][985]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.03.26-23.09.04:504][985]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.03.26-23.09.04:543][985]LogAudio: Display: Audio Device Manager Shutdown
+[2021.03.26-23.09.04:556][985]LogExit: Preparing to exit.
+[2021.03.26-23.09.04:716][985]LogUObjectHash: Compacting FUObjectHashTables data took   5.09ms
+[2021.03.26-23.09.05:798][985]LogDeviceProfile: Device profile begin destroy: [000001DDB00E2200] Windows
+[2021.03.26-23.09.05:798][985]LogDeviceProfile: Device profile begin destroy: [000001DDB00E2300] Default__DeviceProfile
+[2021.03.26-23.09.05:798][985]LogDeviceProfile: Device profile begin destroy: [000001DDB008A500] WindowsNoEditor
+[2021.03.26-23.09.05:798][985]LogDeviceProfile: Device profile begin destroy: [000001DDB00E1400] WindowsServer
+[2021.03.26-23.09.05:798][985]LogDeviceProfile: Device profile begin destroy: [000001DDB008B200] WindowsClient
+[2021.03.26-23.09.05:798][985]LogDeviceProfile: Device profile begin destroy: [000001DDB00E0800] IOS
+[2021.03.26-23.09.05:798][985]LogDeviceProfile: Device profile begin destroy: [000001DDB008A800] iPadAir
+[2021.03.26-23.09.05:798][985]LogDeviceProfile: Device profile begin destroy: [000001DDB00E0E00] iPadAir2
+[2021.03.26-23.09.05:798][985]LogDeviceProfile: Device profile begin destroy: [000001DDB0032300] IPadPro
+[2021.03.26-23.09.05:798][985]LogDeviceProfile: Device profile begin destroy: [000001DDB0032400] iPadAir3
+[2021.03.26-23.09.05:798][985]LogDeviceProfile: Device profile begin destroy: [000001DDB0089700] iPadAir4
+[2021.03.26-23.09.05:798][985]LogDeviceProfile: Device profile begin destroy: [000001DDB0032600] iPadMini2
+[2021.03.26-23.09.05:798][985]LogDeviceProfile: Device profile begin destroy: [000001DDB008BE00] iPadMini3
+[2021.03.26-23.09.05:798][985]LogDeviceProfile: Device profile begin destroy: [000001DDB0031200] iPadMini4
+[2021.03.26-23.09.05:798][985]LogDeviceProfile: Device profile begin destroy: [000001DDB008A100] iPadMini5
+[2021.03.26-23.09.05:798][985]LogDeviceProfile: Device profile begin destroy: [000001DDB0055B00] iPhone6
+[2021.03.26-23.09.05:798][985]LogDeviceProfile: Device profile begin destroy: [000001DDB0055C00] iPodTouch6
+[2021.03.26-23.09.05:798][985]LogDeviceProfile: Device profile begin destroy: [000001DDB0031E00] iPhone7
+[2021.03.26-23.09.05:798][985]LogDeviceProfile: Device profile begin destroy: [000001DDB0031D00] iPodTouch7
+[2021.03.26-23.09.05:798][985]LogDeviceProfile: Device profile begin destroy: [000001DDB0057400] iPhone5S
+[2021.03.26-23.09.05:798][985]LogDeviceProfile: Device profile begin destroy: [000001DDB0032A00] iPhone6Plus
+[2021.03.26-23.09.05:798][985]LogDeviceProfile: Device profile begin destroy: [000001DDB0055400] iPhone6S
+[2021.03.26-23.09.05:798][985]LogDeviceProfile: Device profile begin destroy: [000001DDB0033C00] iPhone6SPlus
+[2021.03.26-23.09.05:798][985]LogDeviceProfile: Device profile begin destroy: [000001DDB0054300] iPhone7Plus
+[2021.03.26-23.09.05:798][985]LogDeviceProfile: Device profile begin destroy: [000001DDB0030400] iPhoneSE
+[2021.03.26-23.09.05:798][985]LogDeviceProfile: Device profile begin destroy: [000001DDB0056700] iPhone8
+[2021.03.26-23.09.05:798][985]LogDeviceProfile: Device profile begin destroy: [000001DDB0033E00] iPhone8Plus
+[2021.03.26-23.09.05:798][985]LogDeviceProfile: Device profile begin destroy: [000001DDB0055900] iPhoneX
+[2021.03.26-23.09.05:798][985]LogDeviceProfile: Device profile begin destroy: [000001DDB0032100] iPhoneXS
+[2021.03.26-23.09.05:798][985]LogDeviceProfile: Device profile begin destroy: [000001DDB0057700] iPhoneXSMax
+[2021.03.26-23.09.05:798][985]LogDeviceProfile: Device profile begin destroy: [000001DDB0031A00] iPhoneXR
+[2021.03.26-23.09.05:798][985]LogDeviceProfile: Device profile begin destroy: [000001DDB0057C00] iPhone11
+[2021.03.26-23.09.05:798][985]LogDeviceProfile: Device profile begin destroy: [000001DDB0030A00] iPhone11Pro
+[2021.03.26-23.09.05:798][985]LogDeviceProfile: Device profile begin destroy: [000001DDB0056800] iPhone11ProMax
+[2021.03.26-23.09.05:798][985]LogDeviceProfile: Device profile begin destroy: [000001DDB0033000] iPhoneSE2
+[2021.03.26-23.09.05:798][985]LogDeviceProfile: Device profile begin destroy: [000001DDB0054500] iPhone12Mini
+[2021.03.26-23.09.05:798][985]LogDeviceProfile: Device profile begin destroy: [000001DDB0032700] iPhone12
+[2021.03.26-23.09.05:798][985]LogDeviceProfile: Device profile begin destroy: [000001DDB0055F00] iPhone12Pro
+[2021.03.26-23.09.05:799][985]LogDeviceProfile: Device profile begin destroy: [000001DDB0031300] iPhone12ProMax
+[2021.03.26-23.09.05:799][985]LogDeviceProfile: Device profile begin destroy: [000001DDB0056A00] iPadPro105
+[2021.03.26-23.09.05:799][985]LogDeviceProfile: Device profile begin destroy: [000001DDB00E0B00] iPadPro129
+[2021.03.26-23.09.05:799][985]LogDeviceProfile: Device profile begin destroy: [000001DDB0057500] iPadPro97
+[2021.03.26-23.09.05:799][985]LogDeviceProfile: Device profile begin destroy: [000001DDB00E1D00] iPadPro2_129
+[2021.03.26-23.09.05:799][985]LogDeviceProfile: Device profile begin destroy: [000001DDB0056900] iPad5
+[2021.03.26-23.09.05:799][985]LogDeviceProfile: Device profile begin destroy: [000001DDB00E0400] iPad6
+[2021.03.26-23.09.05:799][985]LogDeviceProfile: Device profile begin destroy: [000001DDB0056E00] iPad7
+[2021.03.26-23.09.05:799][985]LogDeviceProfile: Device profile begin destroy: [000001DDB00E2800] iPad8
+[2021.03.26-23.09.05:799][985]LogDeviceProfile: Device profile begin destroy: [000001DDB0057D00] iPadPro11
+[2021.03.26-23.09.05:799][985]LogDeviceProfile: Device profile begin destroy: [000001DDB00E2700] iPadPro2_11
+[2021.03.26-23.09.05:799][985]LogDeviceProfile: Device profile begin destroy: [000001DDB0056200] iPadPro3_129
+[2021.03.26-23.09.05:799][985]LogDeviceProfile: Device profile begin destroy: [000001DDB00E1A00] iPadPro4_129
+[2021.03.26-23.09.05:799][985]LogDeviceProfile: Device profile begin destroy: [000001DDB0054900] AppleTV
+[2021.03.26-23.09.05:799][985]LogDeviceProfile: Device profile begin destroy: [000001DDB00E1F00] AppleTV4K
+[2021.03.26-23.09.05:799][985]LogDeviceProfile: Device profile begin destroy: [000001DDB0055200] TVOS
+[2021.03.26-23.09.05:799][985]LogDeviceProfile: Device profile begin destroy: [000001DDB00E2400] Mac
+[2021.03.26-23.09.05:799][985]LogDeviceProfile: Device profile begin destroy: [000001DDB0057100] MacClient
+[2021.03.26-23.09.05:799][985]LogDeviceProfile: Device profile begin destroy: [000001DDB00E0500] MacNoEditor
+[2021.03.26-23.09.05:799][985]LogDeviceProfile: Device profile begin destroy: [000001DDB0054400] MacServer
+[2021.03.26-23.09.05:799][985]LogDeviceProfile: Device profile begin destroy: [000001DDB00E3700] Linux
+[2021.03.26-23.09.05:799][985]LogDeviceProfile: Device profile begin destroy: [000001DDB0055A00] LinuxNoEditor
+[2021.03.26-23.09.05:799][985]LogDeviceProfile: Device profile begin destroy: [000001DDB00E0300] LinuxAArch64NoEditor
+[2021.03.26-23.09.05:799][985]LogDeviceProfile: Device profile begin destroy: [000001DDB0055100] LinuxClient
+[2021.03.26-23.09.05:799][985]LogDeviceProfile: Device profile begin destroy: [000001DDB00E3000] LinuxAArch64Client
+[2021.03.26-23.09.05:799][985]LogDeviceProfile: Device profile begin destroy: [000001DDB0057F00] LinuxServer
+[2021.03.26-23.09.05:799][985]LogDeviceProfile: Device profile begin destroy: [000001DDB00E1C00] LinuxAArch64Server
+[2021.03.26-23.09.05:799][985]LogDeviceProfile: Device profile begin destroy: [000001DDB0054200] Android
+[2021.03.26-23.09.05:799][985]LogDeviceProfile: Device profile begin destroy: [000001DDB00E3200] Android_Low
+[2021.03.26-23.09.05:799][985]LogDeviceProfile: Device profile begin destroy: [000001DDB0055D00] Android_Mid
+[2021.03.26-23.09.05:799][985]LogDeviceProfile: Device profile begin destroy: [000001DDB00E2C00] Android_High
+[2021.03.26-23.09.05:799][985]LogDeviceProfile: Device profile begin destroy: [000001DDB0055800] Android_Default
+[2021.03.26-23.09.05:799][985]LogDeviceProfile: Device profile begin destroy: [000001DDB00E1000] Android_Adreno4xx
+[2021.03.26-23.09.05:799][985]LogDeviceProfile: Device profile begin destroy: [000001DDB0055E00] Android_Adreno5xx_Low
+[2021.03.26-23.09.05:799][985]LogDeviceProfile: Device profile begin destroy: [000001DDB00E2500] Android_Adreno5xx
+[2021.03.26-23.09.05:799][985]LogDeviceProfile: Device profile begin destroy: [000001DDB0056000] Android_Adreno6xx
+[2021.03.26-23.09.05:799][985]LogDeviceProfile: Device profile begin destroy: [000001DDB00E1300] Android_Adreno6xx_Vulkan
+[2021.03.26-23.09.05:799][985]LogDeviceProfile: Device profile begin destroy: [000001DDB0057A00] Android_Mali_T6xx
+[2021.03.26-23.09.05:799][985]LogDeviceProfile: Device profile begin destroy: [000001DDB00E1600] Android_Mali_T7xx
+[2021.03.26-23.09.05:799][985]LogDeviceProfile: Device profile begin destroy: [000001DDB0056C00] Android_Mali_T8xx
+[2021.03.26-23.09.05:799][985]LogDeviceProfile: Device profile begin destroy: [000001DDB00E0200] Android_Mali_G71
+[2021.03.26-23.09.05:799][985]LogDeviceProfile: Device profile begin destroy: [000001DDB0056F00] Android_Mali_G72
+[2021.03.26-23.09.05:799][985]LogDeviceProfile: Device profile begin destroy: [000001DDB00E0D00] Android_Mali_G72_Vulkan
+[2021.03.26-23.09.05:799][985]LogDeviceProfile: Device profile begin destroy: [000001DDB0054C00] Android_Mali_G76
+[2021.03.26-23.09.05:799][985]LogDeviceProfile: Device profile begin destroy: [000001DDB00E2D00] Android_Mali_G76_Vulkan
+[2021.03.26-23.09.05:799][985]LogDeviceProfile: Device profile begin destroy: [000001DDB008A900] Android_Mali_G77
+[2021.03.26-23.09.05:799][985]LogDeviceProfile: Device profile begin destroy: [000001DDB0033100] Android_Mali_G77_Vulkan
+[2021.03.26-23.09.05:799][985]LogDeviceProfile: Device profile begin destroy: [000001DDB0088400] Android_Vulkan_SM5
+[2021.03.26-23.09.05:799][985]LogDeviceProfile: Device profile begin destroy: [000001DDB0032B00] Android_PowerVR_G6xxx
+[2021.03.26-23.09.05:799][985]LogDeviceProfile: Device profile begin destroy: [000001DDB0089400] Android_PowerVR_GT7xxx
+[2021.03.26-23.09.05:799][985]LogDeviceProfile: Device profile begin destroy: [000001DDB0032000] Android_PowerVR_GE8xxx
+[2021.03.26-23.09.05:799][985]LogDeviceProfile: Device profile begin destroy: [000001DDB0088600] Android_PowerVR_GM9xxx
+[2021.03.26-23.09.05:799][985]LogDeviceProfile: Device profile begin destroy: [000001DDB0033400] Android_PowerVR_GM9xxx_Vulkan
+[2021.03.26-23.09.05:799][985]LogDeviceProfile: Device profile begin destroy: [000001DDB0088500] Android_TegraK1
+[2021.03.26-23.09.05:799][985]LogDeviceProfile: Device profile begin destroy: [000001DDB0033A00] Android_Unknown_Vulkan
+[2021.03.26-23.09.05:799][985]LogDeviceProfile: Device profile begin destroy: [000001DDB0088900] Lumin
+[2021.03.26-23.09.05:799][985]LogDeviceProfile: Device profile begin destroy: [000001DDB0030100] Lumin_Desktop
+[2021.03.26-23.09.05:799][985]LogDeviceProfile: Device profile begin destroy: [000001DDB0088B00] HoloLens
+[2021.03.26-23.09.06:089][985]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2021.03.26-23.09.06:094][985]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2021.03.26-23.09.06:259][985]LogDemo: Cleaned up 0 splitscreen connections with owner deletion
+[2021.03.26-23.09.06:433][985]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2021.03.26-23.09.06:433][985]LogExit: Editor shut down
+[2021.03.26-23.09.06:435][985]LogExit: Transaction tracking system shut down
+[2021.03.26-23.09.08:585][985]LogExit: Object subsystem successfully closed.
+[2021.03.26-23.09.09:405][985]LogShaderCompilers: Display: Shaders left to compile 0
