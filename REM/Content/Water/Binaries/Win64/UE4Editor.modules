@@ -1,0 +1,8 @@
+{
+	"BuildId": "14830424",
+	"Modules": 
+	{
+		"Water": "UE4Editor-Water.dll",
+		"WaterEditor": "UE4Editor-WaterEditor.dll"
+	}
+}

@@ -12,11 +12,11 @@
 	],
 	"Plugins": [
 		{
-			"Name": "Water",
+			"Name": "ShallowWater",
 			"Enabled": true
 		},
 		{
-			"Name": "ShallowWater",
+			"Name": "Water",
 			"Enabled": true
 		}
 	]
