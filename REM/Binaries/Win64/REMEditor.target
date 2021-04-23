@@ -10,8 +10,8 @@
 	{
 		"MajorVersion": 4,
 		"MinorVersion": 26,
-		"PatchVersion": 1,
-		"Changelist": 15228867,
+		"PatchVersion": 2,
+		"Changelist": 15973114,
 		"CompatibleChangelist": 14830424,
 		"IsLicenseeVersion": 0,
 		"IsPromotedBuild": 0,
@@ -26,22 +26,6 @@
 		{
 			"Path": "$(EngineDir)/Binaries/Win64/UE4Editor-Cmd.exe",
 			"Type": "Executable"
-		},
-		{
-			"Path": "$(EngineDir)/Plugins/Experimental/Water/Binaries/Win64/UE4Editor-Water.dll",
-			"Type": "DynamicLibrary"
-		},
-		{
-			"Path": "$(EngineDir)/Plugins/Experimental/Water/Binaries/Win64/UE4Editor-WaterEditor.dll",
-			"Type": "DynamicLibrary"
-		},
-		{
-			"Path": "$(EngineDir)/Plugins/Experimental/Landmass/Binaries/Win64/UE4Editor-Landmass.dll",
-			"Type": "DynamicLibrary"
-		},
-		{
-			"Path": "$(EngineDir)/Plugins/Experimental/Landmass/Binaries/Win64/UE4Editor-LandmassEditor.dll",
-			"Type": "DynamicLibrary"
 		},
 		{
 			"Path": "$(EngineDir)/Plugins/FX/Niagara/Binaries/Win64/UE4Editor-NiagaraCore.dll",
@@ -69,6 +53,22 @@
 		},
 		{
 			"Path": "$(EngineDir)/Plugins/FX/Niagara/Binaries/Win64/UE4Editor-NiagaraEditorWidgets.dll",
+			"Type": "DynamicLibrary"
+		},
+		{
+			"Path": "$(EngineDir)/Plugins/Experimental/Water/Binaries/Win64/UE4Editor-Water.dll",
+			"Type": "DynamicLibrary"
+		},
+		{
+			"Path": "$(EngineDir)/Plugins/Experimental/Water/Binaries/Win64/UE4Editor-WaterEditor.dll",
+			"Type": "DynamicLibrary"
+		},
+		{
+			"Path": "$(EngineDir)/Plugins/Experimental/Landmass/Binaries/Win64/UE4Editor-Landmass.dll",
+			"Type": "DynamicLibrary"
+		},
+		{
+			"Path": "$(EngineDir)/Plugins/Experimental/Landmass/Binaries/Win64/UE4Editor-LandmassEditor.dll",
 			"Type": "DynamicLibrary"
 		},
 		{
@@ -2260,15 +2260,15 @@
 			"Type": "RequiredResource"
 		},
 		{
+			"Path": "$(EngineDir)/Plugins/FX/Niagara/Binaries/Win64/UE4Editor.modules",
+			"Type": "RequiredResource"
+		},
+		{
 			"Path": "$(EngineDir)/Plugins/Experimental/Water/Binaries/Win64/UE4Editor.modules",
 			"Type": "RequiredResource"
 		},
 		{
 			"Path": "$(EngineDir)/Plugins/Experimental/Landmass/Binaries/Win64/UE4Editor.modules",
-			"Type": "RequiredResource"
-		},
-		{
-			"Path": "$(EngineDir)/Plugins/FX/Niagara/Binaries/Win64/UE4Editor.modules",
 			"Type": "RequiredResource"
 		},
 		{
@@ -2706,15 +2706,19 @@
 			"Type": "UFS"
 		},
 		{
+			"Path": "$(EngineDir)/Plugins/Experimental/ShallowWater/ShallowWater.uplugin",
+			"Type": "UFS"
+		},
+		{
+			"Path": "$(EngineDir)/Plugins/FX/Niagara/Niagara.uplugin",
+			"Type": "UFS"
+		},
+		{
 			"Path": "$(EngineDir)/Plugins/Experimental/Water/Water.uplugin",
 			"Type": "UFS"
 		},
 		{
 			"Path": "$(EngineDir)/Plugins/Experimental/Landmass/Landmass.uplugin",
-			"Type": "UFS"
-		},
-		{
-			"Path": "$(EngineDir)/Plugins/FX/Niagara/Niagara.uplugin",
 			"Type": "UFS"
 		},
 		{

@@ -31,8 +31,8 @@
 /wd4244
 /wd4838
 /I .
-/I D:\REM\Project-Rem\REM\Intermediate\Build\Win64\UE4Editor\Inc\REM
-/I D:\REM\Project-Rem\REM\Source
+/I C:\Users\donov\Documents\GitHub\Project-Rem\REM\Intermediate\Build\Win64\UE4Editor\Inc\REM
+/I C:\Users\donov\Documents\GitHub\Project-Rem\REM\Source
 /I Runtime
 /I Runtime\TraceLog\Public
 /I Runtime\Core\Public
@@ -261,12 +261,12 @@
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\winrt"
-/FI"D:\REM\Project-Rem\REM\Intermediate\Build\Win64\REMEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
-/Yu"D:\REM\Project-Rem\REM\Intermediate\Build\Win64\REMEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
-/Fp"D:\REM\Project-Rem\REM\Intermediate\Build\Win64\REMEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.pch"
-"D:\REM\Project-Rem\REM\Source\REM\REMGameModeBase.cpp"
-/FI"D:\REM\Project-Rem\REM\Intermediate\Build\Win64\UE4Editor\Development\REM\Definitions.REM.h"
-/Fo"D:\REM\Project-Rem\REM\Intermediate\Build\Win64\UE4Editor\Development\REM\REMGameModeBase.cpp.obj"
+/FI"C:\Users\donov\Documents\GitHub\Project-Rem\REM\Intermediate\Build\Win64\REMEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
+/Yu"C:\Users\donov\Documents\GitHub\Project-Rem\REM\Intermediate\Build\Win64\REMEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
+/Fp"C:\Users\donov\Documents\GitHub\Project-Rem\REM\Intermediate\Build\Win64\REMEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.pch"
+"C:\Users\donov\Documents\GitHub\Project-Rem\REM\Source\REM\REMGameModeBase.cpp"
+/FI"C:\Users\donov\Documents\GitHub\Project-Rem\REM\Intermediate\Build\Win64\UE4Editor\Development\REM\Definitions.REM.h"
+/Fo"C:\Users\donov\Documents\GitHub\Project-Rem\REM\Intermediate\Build\Win64\UE4Editor\Development\REM\REMGameModeBase.cpp.obj"
 /TP
 /GR-
 /W4
